@@ -1,5 +1,5 @@
 # anonymous-13-10-2022forWWW2023
-
+Note that you need to unzip data.7zip to get the datasets.
 # Requirements
 cuda11.3
 
